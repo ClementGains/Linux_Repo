@@ -28,11 +28,3 @@ mv
 rm
 
 
-
-## Screenshots
-
-Add screenshots showing:
-
-- Terminal commands
-- Directory creation
-- File permission

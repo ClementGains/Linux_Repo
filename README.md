@@ -29,3 +29,10 @@ rm
 chmod
 chown
 
+## Screenshots
+
+Add screenshots showing:
+
+- Terminal commands
+- Directory creation
+- File permissions

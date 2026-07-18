@@ -26,8 +26,8 @@ touch
 cp
 mv
 rm
-chmod
-chown
+
+
 
 ## Screenshots
 
@@ -35,4 +35,4 @@ Add screenshots showing:
 
 - Terminal commands
 - Directory creation
-- File permissions
+- File permission
